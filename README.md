@@ -10,6 +10,10 @@ nest new nome_do_projeto
 ```powershell
 nest start run
 ```
+Ou
+```powershell
+npm start:dev run
+```
 
 #### Criar um recurso completo
 ```powershell
