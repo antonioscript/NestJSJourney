@@ -31,3 +31,9 @@ npx prisma init
 ```powershell
 npx prisma migrate dev
 ```
+
+## Mapping (Dto)
+```powershell
+npm i class-validator clas-transformer
+```
+
