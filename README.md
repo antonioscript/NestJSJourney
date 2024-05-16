@@ -28,6 +28,10 @@ nest g resource
 ```powershell
 npx prisma init
 ```
+Ou
+```powershell
+npm i -D prisma
+```
 
 #### Criar Migração
 ```powershell
