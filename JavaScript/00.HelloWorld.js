@@ -1,1 +1,0 @@
-let varNumber = 100;
